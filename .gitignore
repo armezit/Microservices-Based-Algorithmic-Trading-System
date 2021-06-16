@@ -1,3 +1,4 @@
+.env
 unwanted/
 Storage/mlflow
 Storage/minio/storage/.minio.sys
